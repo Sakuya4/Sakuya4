@@ -36,7 +36,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakuya4&show_icons=true&locale=en&layout=compact" alt="Sakuya4" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakuya&show_icons=true&locale=en&layout=compact" alt="Sakuya4" /></p>
 
 
 
