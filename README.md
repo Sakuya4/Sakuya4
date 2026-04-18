@@ -3,17 +3,6 @@
 
 - 臺北科技大學 - 電子工程學研究所/醫電工程與感測器網路實驗室🔴
 
-<p> Before </p>
-
-- 關鍵智慧科技 - 資安實習生
-
-- 輔仁大學 - 圖書資訊學系/所
-  
-- 玖崧科技 - 系統工程師
-
-- 北市圖/北醫 - 圖書館實習生 
-
-
 <h2>🖥️Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
