@@ -51,6 +51,37 @@
   <sub>Based on public repositories and calculated from repository language statistics.</sub>
 </p>
 
+<h2 align="center">GitHub Summary</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakuya4&theme=tokyonight"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakuya4&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakuya4&theme=tokyonight&utcOffset=8"
+    alt="Productive Time"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakuya4&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakuya4&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+</p>
+
 <h2 align="center">Where to find me</h2>
 
 <p align="center">
